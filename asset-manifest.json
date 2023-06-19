@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PFE-PCB-FLORdle/static/css/main.53ddadac.css",
+    "main.js": "/PFE-PCB-FLORdle/static/js/main.d38c682d.js",
+    "static/js/787.59ae59a0.chunk.js": "/PFE-PCB-FLORdle/static/js/787.59ae59a0.chunk.js",
+    "static/media/BCSans-Bold.woff": "/PFE-PCB-FLORdle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/PFE-PCB-FLORdle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/PFE-PCB-FLORdle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/PFE-PCB-FLORdle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/PFE-PCB-FLORdle/index.html",
+    "static/media/getFetch.cjs": "/PFE-PCB-FLORdle/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.53ddadac.css.map": "/PFE-PCB-FLORdle/static/css/main.53ddadac.css.map",
+    "main.d38c682d.js.map": "/PFE-PCB-FLORdle/static/js/main.d38c682d.js.map",
+    "787.59ae59a0.chunk.js.map": "/PFE-PCB-FLORdle/static/js/787.59ae59a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53ddadac.css",
+    "static/js/main.d38c682d.js"
+  ]
+}
